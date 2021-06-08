@@ -1,0 +1,22 @@
+<view class="page-body-wrapper" >
+  <image src="/image/background1.png" class = "background-image"></image>
+  <image src="/image/logo.png" class = "logo"></image> 
+  <view class="edit-area">
+    <navigator class="btn btn1" hover-class="none" url="../modifyPhoto/modify">
+      <image src="/image/editor.svg" class="icon1"></image>
+      <text class="text">美图编辑</text>
+    </navigator>
+    <navigator class="btn btn2" hover-class="none" url="../spliceMenu/spliceMenu">
+      <image src="/image/splice2.svg" class="icon2"></image>
+      <!-- <text class="icon2"></text> -->
+      <text class="text">趣味拼图</text>
+    </navigator>
+  </view>
+
+
+  <view class="shoot-area">
+    <view class="btn3" bindtap="shoot">
+      <image src="/image/button.png" class="shoot-btn"></image>
+    </view>
+  </view>
+</view>
