@@ -1,3 +1,4 @@
-# MiniProgramDev
+# QuickShoot
 ## Request
-场景&需求 逐渐清晰 一致&统一
+### 美图编辑
+### 拼图
